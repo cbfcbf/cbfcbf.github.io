@@ -7,6 +7,6 @@ main:
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: universal_controller.gif
+    image: ./assets/img/universal_controller.gif
     notes: Ongoing project
 
