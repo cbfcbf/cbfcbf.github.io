@@ -2,7 +2,7 @@ main:
 
   - title: Humanoid Universal Controller
     authors: This project aims to develop a universal controller for humanoid robots. The controller is designed to map expressive and diverse human motions onto the robot in real-time, enabling it to accurately track desired trajectories while maintaining dynamic balance and resisting external disturbances.
-    # conference_short: MICCAI
+    conference_short: Dec. 2025 (expected)
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -12,7 +12,7 @@ main:
 
   - title: Emotional Gait Foundation Model
     authors: Our model successfully implements a single, unified policy to generate a spectrum of emotional walking gaits, demonstrating highly robust performance across all styles.
-    # conference_short: MICCAI
+    conference_short: Sept. 2025
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
