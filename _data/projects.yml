@@ -10,3 +10,14 @@ main:
     image: ./assets/img/universal_controller.gif
     notes: Ongoing project
 
+  - title: Emotional Gait Foundation Model
+    authors: Our model successfully implements a single, unified policy to generate a spectrum of emotional walking gaits, demonstrating highly robust performance across all styles.
+    # conference_short: MICCAI
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/emotional_gait.png
+    vedio: https://www.linkedin.com/feed/update/urn:li:activity:7393123292683010048/
+    # notes: Ongoing project
+
