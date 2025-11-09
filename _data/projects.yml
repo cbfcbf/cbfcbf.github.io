@@ -1,12 +1,12 @@
 main:
 
   - title: Humanoid Universal Controller
-    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: This project aims to develop a universal controller for humanoid robots. The controller is designed to map expressive and diverse human motions onto the robot in real-time, enabling it to accurately track desired trajectories while maintaining dynamic balance and resisting external disturbances.
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: universal_controller.mp4
     notes: Ongoing project
 
