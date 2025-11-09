@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Robotics Engineer in humanoid locomotion team at Cyan Robotics. Prior to this, I was graduated as a master student from University of  Cambridge, majoring in mathematics. Before that, I obtained the dual degree at Peking University in Robotics and Finance.
+I am currently a Robotics Engineer in humanoid locomotion team at Cyan Robotics. Prior to this, I was graduated as a master student from University of  Cambridge, majoring in mathematics. Before that, I obtained the dual degree in Robotics and Finance at Peking University.
 My primary research goal is to leverage large-scale human data to build generalizable robots capable of performing the full spectrum of human skills.
 
 ## Research Interests
