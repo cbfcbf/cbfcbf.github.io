@@ -12,13 +12,13 @@ My primary research goal is to leverage large-scale human data to build generali
 - **Robot learning:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Perceptive locomotion; Humanoid-human-object interaction
 - **Machine Learning:** meta-learning; machine learing in asset pricing; network analysis
 
-## News
+<!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
