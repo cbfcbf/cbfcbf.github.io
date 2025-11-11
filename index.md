@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a Robotics Engineer in the Locomotion team at Cyan Robotics. I previously earned my Master’s degree in Mathematics from the University of Cambridge, where I conducted research on meta-learning under the supervision of Professor Mihaela van der Schaar. During my studies, I also served as a visiting student at the CaMLSys Lab, working on data selection methods for large language models. Prior to that, I completed a dual Bachelor’s degree in Robotics and Finance at Peking University, where I worked with Professor Aming Li on temporal network analysis.
+I am currently a Robotics Engineer on the Locomotion team at Cyan Robotics, focused on developing and implementing robust control policies for dynamic humanoid robots. My work spans the humanoid behavior foundation model, expressive gait generation, stability optimization, and enabling agile mobility in complex environments. My long-term goal is to leverage large-scale human data to build generalizable robotic systems capable of performing a wide range of human-like skills.
 
-<!-- My primary research objective is to leverage large-scale human data to develop generalizable robotic systems capable of performing a broad range of human skills. -->
+I previously earned my Master’s degree in Mathematics from the University of Cambridge, where I conducted research on meta-learning under the supervision of Professor Mihaela van der Schaar. During my master's studies, I was also a visiting student at the CaMLSys Lab, working on data selection methods for large language models. Prior to that, I completed a dual Bachelor’s degree in Robotics and Finance at Peking University, where I collaborated with Professor Aming Li on temporal network analysis.
 
 ## Research Interests
 
@@ -21,5 +21,5 @@ I am currently a Robotics Engineer in the Locomotion team at Cyan Robotics. I pr
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/projects.md %}
-
+{% include_relative _includes/publications.md %}
 <!-- {% include_relative _includes/services.md %} -->
