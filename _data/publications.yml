@@ -16,7 +16,7 @@ main:
     conference: Physical Review E
     pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.064302
     code: https://github.com/cbfcbf/Temporal-Clustering-code
-    # page: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.064302
+    page: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.064302
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/TC.png
