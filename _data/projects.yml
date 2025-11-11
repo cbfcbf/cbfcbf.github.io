@@ -22,7 +22,7 @@ main:
     # notes: Ongoing project
 
   - title: Basic Locomotion Controller
-    authors: This project develops a locomotion controller for our custom-built robot, Orca. The controller employs a unified policy that integrates walking and standing with diverse upper-body poses. Additionally, it enables the robot to withstand significant external forces, traverse uneven grasslands, and climb slopes of up to 30 degrees. Building upon this controller, we further enhanced Orca's capabilities by enabling a running gait. This advancement was successfully demonstrated at the Beijing Robot Marathon, where Orca achieved a milestone by sustaining stable running for over an hour.
+    authors: We developed a unified locomotion controller for the Orca robot that enables walking, standing, and diverse upper-body poses. The robot can resist external forces, traverse uneven grasslands, and climb 30-degree slopes. The system was later enhanced with a running gait, achieving stable operation for over one hour at the Beijing Robot Marathon.
     conference_short: Mar. 2025
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
