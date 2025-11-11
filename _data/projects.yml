@@ -33,15 +33,7 @@ main:
     # notes: Ongoing project
 
 
-  - title: Meta-learning Implicit Neural Representation for Sparse Time Series Functional Data Analysis
-    authors:  MetaINR incorporates meta-learning into the functional data analysis (FDA) framework, efficiently learning sample distributions without any prior assumptions.
-    conference_short: Jun. 2024
-    pdf:  ./assets/files/metaFDA.mp4
-    code:  https://github.com/cbfcbf/code_metaINR
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/MetaINR.png
-    # video: https://www.linkedin.com/feed/update/urn:li:activity:7393123292683010048/
-    notes: Master Essay
+
 
   # - title: Temporal Clustering Coeffient
   #   authors: Our model successfully implements a single, unified policy to generate a spectrum of emotional walking gaits, demonstrating highly robust performance across all styles.

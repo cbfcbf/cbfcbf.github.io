@@ -1,5 +1,14 @@
 main:
-
+  - title: Meta-learning Implicit Neural Representation for Sparse Time Series Functional Data Analysis
+    authors:  Bofan Chen
+    conference_short: Master Essay
+    pdf:  ./assets/files/metaFDA.mp4
+    code:  https://github.com/cbfcbf/code_metaINR
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/MetaINR.png
+    # video: https://www.linkedin.com/feed/update/urn:li:activity:7393123292683010048/
+    notes: Master Essay
+    
   - title: CLUES:Collaborative High-Quality Data Selection for LLMs via Training Dynamics
     authors: Wanru Zhao, Hongxiang Fan, Shell Xu Hu, Wangchunshu Zhou, <strong>Bofan Chen</strong>, Nicholas D. Lane
     conference_short: NeurIPS 2024
