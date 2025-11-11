@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently a Robotics Engineer in the Locomotion team at Cyan Robotics. I previously earned my Master’s degree in Mathematics from the University of Cambridge, where I conducted research on meta-learning under the supervision of Professor Mihaela van der Schaar. During my studies, I also served as a visiting student at the CaMLSys Lab, working on data selection methods for large language models. Prior to that, I completed a dual Bachelor’s degree in Robotics and Finance at Peking University.
+I am currently a Robotics Engineer in the Locomotion team at Cyan Robotics. I previously earned my Master’s degree in Mathematics from the University of Cambridge, where I conducted research on meta-learning under the supervision of Professor Mihaela van der Schaar. During my studies, I also served as a visiting student at the CaMLSys Lab, working on data selection methods for large language models. Prior to that, I completed a dual Bachelor’s degree in Robotics and Finance at Peking University, where I worked with Professor Aming Li on temporal network analysis.
 
 <!-- My primary research objective is to leverage large-scale human data to develop generalizable robotic systems capable of performing a broad range of human skills. -->
 
 ## Research Interests
 
 - **Robot learning:** Humanoid robot learning and control; Scaleble skill learning from scalable data; Perceptive locomotion; Humanoid-human-object interaction
-- **Machine Learning:** meta-learning; machine learing in asset pricing; network analysis
+- **Machine Learning:** meta-learning; network analysis
 
 <!-- ## News
 

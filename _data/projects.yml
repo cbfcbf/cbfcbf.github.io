@@ -2,7 +2,7 @@ main:
 
   - title: Humanoid Universal Controller
     authors: This project aims to develop a universal controller for humanoid robots. The controller is designed to map expressive and diverse human motions onto the robot in real-time, enabling it to accurately track desired trajectories while maintaining dynamic balance and resisting external disturbances.
-    conference_short: Dec. 2025 (expected)
+    conference_short: Dec. 2025
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -12,12 +12,45 @@ main:
 
   - title: Emotional Gait Foundation Model
     authors: Our model successfully implements a single, unified policy to generate a spectrum of emotional walking gaits, demonstrating highly robust performance across all styles.
-    conference_short: Sept. 2025
+    conference_short: Aug. 2025
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/emotional_gait.png
-    video: https://www.linkedin.com/feed/update/urn:li:activity:7393123292683010048/
+    video: ./assets/files/exp_video.mp4
     # notes: Ongoing project
 
+  - title: Basic Locomotion Controller
+    authors: This project develops a locomotion controller for our custom-built robot, Orca. The controller employs a unified policy that integrates walking and standing with diverse upper-body poses. Additionally, it enables the robot to withstand significant external forces, traverse uneven grasslands, and climb slopes of up to 30 degrees. Building upon this controller, we further enhanced Orca's capabilities by enabling a running gait. This advancement was successfully demonstrated at the Beijing Robot Marathon, where Orca achieved a milestone by sustaining stable running for over an hour.
+    conference_short: Mar. 2025
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/running.JPG
+    video: ./assets/files/basic_locomotion.mp4
+    # notes: Ongoing project
+
+
+  # - title: Data Quality Selection for LLM
+  #   authors: Our model successfully implements a single, unified policy to generate a spectrum of emotional walking gaits, demonstrating highly robust performance across all styles.
+  #   conference_short: Sept. 2024
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/emotional_gait.png
+  #   video: https://www.linkedin.com/feed/update/urn:li:activity:7393123292683010048/
+  #   # notes: Ongoing project
+
+  # - title: Temporal Clustering Coeffient
+  #   authors: Our model successfully implements a single, unified policy to generate a spectrum of emotional walking gaits, demonstrating highly robust performance across all styles.
+  #   conference_short: Sept. 2025
+  #   # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/emotional_gait.png
+  #   video: https://www.linkedin.com/feed/update/urn:li:activity:7393123292683010048/
+  #   # notes: Ongoing project
